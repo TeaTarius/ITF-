@@ -1,0 +1,17 @@
+{
+    margin: 0;
+}
+.navbar{
+    background-color:gold;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+.nav-item-container{
+    display: flex;
+    column-gap: 5 px;
+}
+.nav-item{
+    color:antiquewhite;
+    background-color:blueviolet;
+}
