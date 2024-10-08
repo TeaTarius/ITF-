@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+.container{
+    display : grid;
+    grid-template-columns: contents;
+    background-color: aquamarine;
+}
+.navbar{
+    background-color:gold;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    border:hsl(from color h s l)
+}
+.nav-item-container{
+    display: flex;
+    column-gap: 5 px;
+}
+.nav-item{
+    color:antiquewhite;
+    background-color:blueviolet;
+}
